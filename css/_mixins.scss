@@ -1,0 +1,5 @@
+
+@mixin fondo-equipo($url_camiseta, $color_equipo) {
+    background-image: url($url_camiseta);
+    background-color:$color_equipo; 
+}
